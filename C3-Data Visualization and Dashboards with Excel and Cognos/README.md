@@ -76,4 +76,4 @@ Have you captured the correct metrics?
 Are the results correct?
 Have you used the appropriate visualizations on the dashboard?
  </p> 
-  <img src = "https://coursera-certificate-images.s3.amazonaws.com/UXVZYCRFZGCJ" width = 600 height = 400>
+ 
